@@ -314,7 +314,7 @@ function initMap() {
     center: losAngeles,
     zoom: 11,
     mapTypeId: 'roadmap',
-    styles: style1,
+    styles: style2,
   });
 
   infoWindow = new google.maps.InfoWindow();
